@@ -15,7 +15,7 @@ const TodoForm = ({ onAdd }) => {
           onClick={() => setIsShow(true)}
           className="bg-transparent hover:bg-white text-white font-semibold hover:text-stone-900 py-2 px-4 border border-white hover:border-transparent rounded"
         >
-          Add new todo
+          New todo !
         </button>
       </div>
     );
